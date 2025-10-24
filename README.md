@@ -23,8 +23,8 @@ A beautiful web application for converting speech to text using Deepgram's AI-po
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd mini-proj
+git clone https://github.com/MelloB1989/mini-proj-aiml-b
+cd mini-proj-aiml-b
 ```
 
 2. Install dependencies:
